@@ -295,18 +295,18 @@ body {
   }
 
   .six .hat {
-    width: 50px;
-    top: -20px;
+    width: 40px;
+    top: -10px;
   }
 
   .wish-hbd {
-    font-size: 1.2em;
+    font-size: 1.6em;
     white-space: nowrap;
     margin: 15px 0;
   }
 
   .wish h5 {
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     margin: 10px 20px;
     word-wrap: break-word;
   }
