@@ -273,7 +273,7 @@ body {
   }
 
   .six .girl-dp {
-    width: 80vw !important;
+    width: 60vw !important;
     height: auto;
   }
 
@@ -300,13 +300,13 @@ body {
   }
 
   .wish-hbd {
-    font-size: 1em;
+    font-size: 1.2em;
     white-space: nowrap;
     margin: 15px 0;
   }
 
   .wish h5 {
-    font-size: 0.6rem;
+    font-size: 0.9rem;
     margin: 10px 20px;
     word-wrap: break-word;
   }
